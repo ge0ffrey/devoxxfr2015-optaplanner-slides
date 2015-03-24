@@ -14,7 +14,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="whatIsAPlanningProblem.svg"
    inkscape:export-filename="whatIsAPlanningProblem.png"
    inkscape:export-xdpi="90"
@@ -15727,18 +15727,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3483333"
+     inkscape:zoom="0.76625"
      inkscape:cx="400"
      inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1024"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -15813,7 +15813,7 @@
            x="40"
            y="210.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3319">What is a planning problem?</flowPara></flowRoot>    <flowRoot
+         id="flowPara3319">Qu'est ce qu'un problème de plannification?</flowPara></flowRoot>    <flowRoot
        transform="translate(-20,382.36205)"
        xml:space="preserve"
        id="flowRoot4302-6"
@@ -15825,7 +15825,7 @@
            x="40"
            y="140.00014"
            style="font-size:16px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara9479">Optimize goals with limited resources under constraints</flowPara></flowRoot>    <flowRoot
+         id="flowPara9479">Optimiser les objectifs avec des ressources limitées sous contraintes</flowPara></flowRoot>    <flowRoot
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial Bold"
        id="flowRoot6947"
        xml:space="preserve"
@@ -16322,7 +16322,7 @@
            width="380.88168"
            id="rect7692" /></flowRegion><flowPara
          id="flowPara7696"
-         style="font-size:18px">Maximize profit</flowPara></flowRoot>    <flowRoot
+         style="font-size:18px">Maximiser le profit</flowPara></flowRoot>    <flowRoot
        transform="translate(-10.37418,107.34595)"
        xml:space="preserve"
        id="flowRoot6099"
@@ -16361,7 +16361,17 @@
            y="77.933083"
            style="font-size:16px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          style="font-size:18px"
-         id="flowPara8892">...</flowPara></flowRoot>  </g>
+         id="flowPara8892">...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6044"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion6046"><rect
+           id="rect6048"
+           width="82.859978"
+           height="135.30301"
+           x="823.35553"
+           y="332.54056" /></flowRegion><flowPara
+         id="flowPara6050"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -16845,12 +16855,12 @@
         <polygon
            transform="matrix(0.19773322,0,0,0.15,3.2604349,3.426568)"
            style="fill:#555753"
-           points="88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 "
+           points="19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 "
            id="polygon7327" />
         <polygon
            transform="matrix(0.20033345,0,0,0.15,3.2105781,3.426568)"
            style="fill:#babdb6"
-           points="86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 "
+           points="86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 "
            id="polygon7329" />
         <path
            style="fill:#888a85"
@@ -16876,12 +16886,12 @@
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)"
            style="fill:#555753"
-           points="88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 "
+           points="88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 "
            id="polygon7339" />
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)"
            style="fill:#babdb6"
-           points="86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 "
+           points="86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 "
            id="polygon7341" />
         <path
            sodipodi:nodetypes="cscccc"
@@ -17186,12 +17196,12 @@
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)"
            style="fill:#555753"
-           points="19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 "
+           points="19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 "
            id="polygon7401" />
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)"
            style="fill:#555753"
-           points="19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 "
+           points="19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 "
            id="polygon7403" />
         <path
            sodipodi:nodetypes="ccscccccc"
@@ -17779,12 +17789,12 @@
         <polygon
            transform="matrix(0.19773322,0,0,0.15,3.2604349,3.426568)"
            style="fill:#555753"
-           points="19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 "
+           points="19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 "
            id="polygon8285" />
         <polygon
            transform="matrix(0.20033345,0,0,0.15,3.2105781,3.426568)"
            style="fill:#babdb6"
-           points="19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 "
+           points="19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 "
            id="polygon8287" />
         <path
            style="fill:#888a85"
@@ -17810,12 +17820,12 @@
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)"
            style="fill:#555753"
-           points="19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 "
+           points="19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 "
            id="polygon8297" />
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)"
            style="fill:#babdb6"
-           points="19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 "
+           points="19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 "
            id="polygon8299" />
         <path
            sodipodi:nodetypes="cscccc"
@@ -18120,12 +18130,12 @@
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)"
            style="fill:#555753"
-           points="88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 "
+           points="88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 "
            id="polygon8359" />
         <polygon
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)"
            style="fill:#555753"
-           points="86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 "
+           points="86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 "
            id="polygon8361" />
         <path
            sodipodi:nodetypes="ccscccccc"
@@ -18693,12 +18703,12 @@
            style="fill:#2e3436" />
         <polygon
            id="polygon8552"
-           points="88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 "
+           points="19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 "
            style="fill:#555753"
            transform="matrix(0.19773322,0,0,0.15,3.2604349,3.426568)" />
         <polygon
            id="polygon8554"
-           points="86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 "
+           points="86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 "
            style="fill:#babdb6"
            transform="matrix(0.20033345,0,0,0.15,3.2105781,3.426568)" />
         <path
@@ -18724,12 +18734,12 @@
            style="fill:#2e3436" />
         <polygon
            id="polygon8564"
-           points="88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 "
+           points="88.139,32.858 88.139,81.17 19.174,56.07 19.174,7.758 19.174,7.758 "
            style="fill:#555753"
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)" />
         <polygon
            id="polygon8566"
-           points="86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 "
+           points="86.24,34 86.24,80.48 19.174,56.07 19.174,9.589 19.174,9.589 "
            style="fill:#babdb6"
            transform="matrix(-0.11078638,0,0,0.15,30.75416,3.4265681)" />
         <path
@@ -19034,12 +19044,12 @@
            sodipodi:nodetypes="cscccssccc" />
         <polygon
            id="polygon8626"
-           points="19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 19.174,56.07 "
+           points="19.174,56.07 19.174,7.758 19.174,7.758 88.139,32.858 88.139,81.17 "
            style="fill:#555753"
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)" />
         <polygon
            id="polygon8628"
-           points="19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 19.174,56.07 "
+           points="19.174,56.07 19.174,9.589 19.174,9.589 86.24,34 86.24,80.48 "
            style="fill:#555753"
            transform="matrix(-0.11078638,0,0,0.15,35.90275,5.1544939)" />
         <path
