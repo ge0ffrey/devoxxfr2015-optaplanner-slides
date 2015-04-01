@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="cloudBalanceLocalSearch.svg"
    inkscape:export-filename="cloudBalanceLocalSearch.png"
    inkscape:export-xdpi="90"
@@ -254,9 +254,9 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="991"
+     inkscape:window-x="1680"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -957,5 +957,5 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3178">Recherche Locale </flowPara></flowRoot>  </g>
+         id="flowPara3178">Local Search (Recherche Locale)</flowPara></flowRoot>  </g>
 </svg>
