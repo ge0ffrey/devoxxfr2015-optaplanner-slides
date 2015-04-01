@@ -30,7 +30,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="npCompleteInterconnection.svg"
    inkscape:export-filename="npCompleteInterconnection.png"
    inkscape:export-xdpi="90"
@@ -7599,7 +7599,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.315"
-     inkscape:cx="400"
+     inkscape:cx="401.52091"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -7607,8 +7607,8 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -7648,7 +7648,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -7683,7 +7683,7 @@
        style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Italic"
        id="flowRoot6222"
        xml:space="preserve"
-       transform="translate(-45.689625,582.56395)"><flowRegion
+       transform="translate(-45.689625,614.56395)"><flowRegion
          id="flowRegion6224"><rect
            style="font-size:24px;font-style:italic;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Arial Italic"
            y="149.79872"
@@ -7691,13 +7691,13 @@
            height="99.99958"
            width="451.3457"
            id="rect6226" /></flowRegion><flowPara
-         id="flowPara5237">Solve <flowSpan
+         id="flowPara5237">Résoudre <flowSpan
    id="flowSpan6089"
-   style="font-weight:bold">one</flowSpan> use case</flowPara><flowPara
-         id="flowPara5137"> ⇔ Solve <flowSpan
+   style="font-weight:bold">un</flowSpan> cas d'utilisation</flowPara><flowPara
+         id="flowPara5137"> ⇔ Résoudre <flowSpan
    id="flowSpan6091"
-   style="font-weight:bold">all</flowSpan> use cases</flowPara><flowPara
-         id="flowPara5140">⇔ Prove P = NP</flowPara></flowRoot>    <path
+   style="font-weight:bold">tous</flowSpan> les cas d'utilisation </flowPara><flowPara
+         id="flowPara5140">⇔ P = NP</flowPara></flowRoot>    <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path5255"
@@ -7759,7 +7759,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5279"
-       d="m 720,772.36218 -10,10 -10,-10"
+       d="m 720,774.36218 -10,10 -10,-10"
        style="color:#000000;fill:none;stroke:#8f5902;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        id="g10259"
@@ -8174,7 +8174,7 @@
              height="29.999981"
              width="270.00006"
              id="rect6226-3" /></flowRegion><flowPara
-           id="flowPara6230-3">Equipment scheduling</flowPara></flowRoot>    </g>
+           id="flowPara6230-3">Ordonnancement d'Equipement </flowPara></flowRoot>    </g>
     <flowRoot
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial Bold"
        id="flowRoot6947"
@@ -8187,7 +8187,7 @@
            height="29.999994"
            width="220"
            id="rect6951" /></flowRegion><flowPara
-         id="flowPara6953">Vehicle routing</flowPara></flowRoot>    <g
+         id="flowPara6953">Transport Routier</flowPara></flowRoot>    <g
        id="g7707">
       <g
          transform="matrix(0.80622957,0,0,0.80622957,5.7888573,430.67423)"
@@ -10696,7 +10696,7 @@
            x="263.58661"
            y="180.47906"
            style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Arial Bold" /></flowRegion><flowPara
-         id="flowPara8210">Bin packing</flowPara></flowRoot>    <g
+         id="flowPara8210">Paquetage</flowPara></flowRoot>    <g
        id="g8551"
        transform="translate(-388.76517,395.03838)">
       <rect
@@ -11155,7 +11155,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(244.70382,611.88302)"
+       transform="translate(286.70382,609.88302)"
        xml:space="preserve"
        id="flowRoot8649"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial Bold"><flowRegion
@@ -11166,7 +11166,7 @@
            x="263.58661"
            y="180.47906"
            style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Arial Bold" /></flowRegion><flowPara
-         id="flowPara8655">Employee rostering</flowPara></flowRoot>    <g
+         id="flowPara8655">Emploi du temps</flowPara></flowRoot>    <g
        id="g9540"
        transform="matrix(0.75,0,0,0.75,192.125,750.96555)">
       <g
@@ -11208,7 +11208,7 @@
                x="62.83984"
                y="335.90164"
                style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5963-8-6">Sat</flowPara></flowRoot>        <flowRoot
+             id="flowPara5963-8-6">Sam</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot5957-7-4-8"
            style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -11220,7 +11220,7 @@
                x="65.224609"
                y="331.80789"
                style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5963-8-5-8">Sun</flowPara></flowRoot>        <flowRoot
+             id="flowPara5963-8-5-8">Dim</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot5957-7-9-6"
            style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -11232,7 +11232,7 @@
                x="65.224609"
                y="331.80789"
                style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5963-8-8-5">Mon</flowPara></flowRoot>        <path
+             id="flowPara5963-8-8-5">Lun</flowPara></flowRoot>        <path
            style="fill:none;stroke:#000000;stroke-width:1.33333313px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 220.5,751.86216 269.99998,0"
            id="path3540-3"
@@ -11403,7 +11403,7 @@
              height="30.000006"
              width="130"
              id="rect5961-4" /></flowRegion><flowPara
-           id="flowPara5322">Employee 1</flowPara></flowRoot>      <g
+           id="flowPara5322">Employé 1</flowPara></flowRoot>      <g
          style="fill:#5c3566"
          id="g6096-1-8"
          transform="translate(700,-430)">
@@ -11419,7 +11419,7 @@
                x="10"
                y="120.20001"
                style="fill:#ad7fa8;fill-opacity:1" /></flowRegion><flowPara
-             id="flowPara3963-9-73-8">Free</flowPara></flowRoot>      </g>
+             id="flowPara3963-9-73-8">Libre</flowPara></flowRoot>      </g>
       <g
          id="g6082-1-16"
          transform="translate(340,-430)">
@@ -11480,7 +11480,7 @@
              x="-7.1600499"
              y="326.10162"
              style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-           id="flowPara9310">Employee 2</flowPara></flowRoot>      <g
+           id="flowPara9310">Employé 2</flowPara></flowRoot>      <g
          style="fill:#5c3566"
          transform="translate(609.99984,-390)"
          id="g9312">
@@ -11496,7 +11496,7 @@
                height="30.000004"
                width="90"
                id="rect9318" /></flowRegion><flowPara
-             id="flowPara9320">Free</flowPara></flowRoot>      </g>
+             id="flowPara9320">Libre</flowPara></flowRoot>      </g>
       <g
          transform="translate(310,-390)"
          id="g9322">
@@ -11557,7 +11557,7 @@
              height="30.000006"
              width="130"
              id="rect9362" /></flowRegion><flowPara
-           id="flowPara9364">Employee 3</flowPara></flowRoot>      <g
+           id="flowPara9364">Employé 3</flowPara></flowRoot>      <g
          style="fill:#5c3566"
          id="g9366"
          transform="translate(699.99984,-350)">
@@ -11573,7 +11573,7 @@
                x="10"
                y="120.20001"
                style="fill:#ad7fa8;fill-opacity:1" /></flowRegion><flowPara
-             id="flowPara9374">Free</flowPara></flowRoot>      </g>
+             id="flowPara9374">Libre</flowPara></flowRoot>      </g>
       <g
          id="g9376"
          transform="translate(280,-350)">
@@ -11610,7 +11610,7 @@
              x="-7.1600499"
              y="326.10162"
              style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-           id="flowPara9406">Employee 4</flowPara></flowRoot>      <g
+           id="flowPara9406">Employé 4</flowPara></flowRoot>      <g
          style="fill:#fcaf3e"
          transform="translate(519.99984,-310)"
          id="g9408">
@@ -11626,7 +11626,7 @@
                height="30.000004"
                width="90"
                id="rect9414" /></flowRegion><flowPara
-             id="flowPara9416">Free</flowPara></flowRoot>      </g>
+             id="flowPara9416">Libre</flowPara></flowRoot>      </g>
       <g
          transform="translate(400,-310)"
          id="g9418">
@@ -11663,7 +11663,7 @@
              height="30.000006"
              width="130"
              id="rect9446" /></flowRegion><flowPara
-           id="flowPara9448">Employee 5</flowPara></flowRoot>      <g
+           id="flowPara9448">Employé 5</flowPara></flowRoot>      <g
          style="fill:#5c3566"
          id="g9450"
          transform="translate(519.99984,-270)">
@@ -11679,7 +11679,7 @@
                x="10"
                y="120.20001"
                style="fill:#ad7fa8;fill-opacity:1" /></flowRegion><flowPara
-             id="flowPara9458">Free</flowPara></flowRoot>      </g>
+             id="flowPara9458">Libre</flowPara></flowRoot>      </g>
       <g
          transform="translate(370,-270)"
          id="g9484">
@@ -11744,7 +11744,7 @@
                x="10"
                y="120.20001"
                style="fill:#ad7fa8;fill-opacity:1" /></flowRegion><flowPara
-             id="flowPara9526">Free</flowPara></flowRoot>      </g>
+             id="flowPara9526">Libre</flowPara></flowRoot>      </g>
       <g
          id="g9528"
          transform="translate(460,-270)">
@@ -11771,17 +11771,17 @@
              id="flowPara9538">N</flowPara></flowRoot>      </g>
     </g>
     <flowRoot
-       transform="translate(-104.51367,500.77445)"
+       transform="translate(-104.51367,494.77445)"
        xml:space="preserve"
        id="flowRoot5241"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial Bold"><flowRegion
          id="flowRegion5243"><rect
            id="rect5245"
-           width="481.59695"
-           height="72.585548"
+           width="490.92706"
+           height="161.10866"
            x="263.58661"
            y="180.47906"
            style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;fill:#2e3436;-inkscape-font-specification:Arial Bold" /></flowRegion><flowPara
          id="flowPara5247"
-         style="font-size:36px;font-weight:normal;-inkscape-font-specification:Arial">NP-complete interconnection</flowPara></flowRoot>  </g>
+         style="font-size:36px;font-weight:normal;-inkscape-font-specification:Arial">Interconnection entre différent problèmes NP-complete</flowPara></flowRoot>  </g>
 </svg>

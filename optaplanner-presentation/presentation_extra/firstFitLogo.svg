@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="firstFitLogo.svg"
    inkscape:export-filename="firstFitLogo.png"
    inkscape:export-xdpi="90"
@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92984542"
-     inkscape:cx="251.97104"
+     inkscape:cx="254.12194"
      inkscape:cy="318.71995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -254,8 +254,8 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -291,7 +291,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -320,7 +320,7 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4621">First Fit</flowPara></flowRoot>    <g
+         id="flowPara4621">Première Suite</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot
@@ -350,7 +350,7 @@
            x="142.37596"
            y="141.07545"
            style="font-size:22px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3072">We got 3 rooms left:</flowPara><flowPara
+         id="flowPara3072">Il nous reste 3 chambres:</flowPara><flowPara
          id="flowPara3076">105, 701 and 703</flowPara></flowRoot>    <g
        id="g3942"
        style="stroke:#4e9a06" />
@@ -524,7 +524,7 @@
            height="53.221985"
            width="170.91309"
            id="rect3140" /></flowRegion><flowPara
-         id="flowPara3144">701 please</flowPara></flowRoot>    <path
+         id="flowPara3144">701 svp</flowPara></flowRoot>    <path
        id="path3148"
        d="m 227.71077,683.7586 c -91.44114,0 -165.568826,16.19631 -165.568826,36.17546 0,8.5982 13.757005,16.49537 36.686653,22.7029 -3.083916,11.32022 -9.128673,21.07864 -17.697874,29.50911 15.164709,-4.75089 26.275857,-13.53215 34.000737,-25.68644 29.54372,5.99023 69.09565,9.6499 112.57931,9.6499 91.44114,0 165.56884,-16.19631 165.56884,-36.17547 0,-19.97915 -74.1277,-36.17546 -165.56884,-36.17546 z"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -541,7 +541,7 @@
            height="62.901131"
            width="331.15479"
            id="rect3154" /></flowRegion><flowPara
-         id="flowPara3156">We got 2 rooms left:</flowPara><flowPara
+         id="flowPara3156">Il nous reste 2 chambres:</flowPara><flowPara
          id="flowPara3158">105 and 703</flowPara></flowRoot>    <g
        transform="matrix(-0.99567597,0.09289432,0.09289432,0.99567597,614.27991,81.502897)"
        id="g3160">
@@ -679,7 +679,7 @@
            x="282.18414"
            y="158.28261"
            style="font-size:22px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3214">105 please</flowPara></flowRoot>    <path
+         id="flowPara3214">105 svp</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 227.71077,843.7586 c -91.44114,0 -165.568826,16.19631 -165.568826,36.17546 0,8.5982 13.757005,16.49537 36.686653,22.7029 -3.083916,11.32022 -9.128673,21.07864 -17.697874,29.50911 15.164709,-4.75089 26.275857,-13.53215 34.000737,-25.68644 29.54372,5.99023 69.09565,9.6499 112.57931,9.6499 91.44114,0 165.56884,-16.19631 165.56884,-36.17547 0,-19.97915 -74.1277,-36.17546 -165.56884,-36.17546 z"
@@ -696,7 +696,7 @@
            x="142.37596"
            y="141.07545"
            style="font-size:22px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3224">We got 1 room left:</flowPara><flowPara
+         id="flowPara3224">Il nous reste 1 chambre:</flowPara><flowPara
          id="flowPara3226">703</flowPara></flowRoot>    <g
        id="g3248"
        transform="translate(-85.80912,219.64606)">

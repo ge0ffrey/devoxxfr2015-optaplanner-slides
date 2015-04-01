@@ -13,8 +13,8 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="cloudBalanceNpCompleteE.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="cloudBalanceNpCompleteEFR.svg"
    inkscape:export-filename="cloudBalanceNpCompleteE.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -246,17 +246,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.315"
-     inkscape:cx="400"
+     inkscape:cx="401.52091"
      inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="true"
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -536,26 +536,14 @@
          id="flowRegion3474-2"><rect
            style="font-size:14px"
            y="63.777069"
-           x="330"
-           height="20.000044"
-           width="209.99998"
+           x="320"
+           height="20"
+           width="240"
            id="rect3476-6" /></flowRegion><flowPara
-         id="flowPara3478-0">Computers CPU</flowPara></flowRoot>    <g
+         id="flowPara3478-0">Ressource CPU assignée au Serveur</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot
-       transform="translate(-220,518.58511)"
-       xml:space="preserve"
-       id="flowRoot3985"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
-         id="flowRegion3987"><rect
-           id="rect3989"
-           width="149.99977"
-           height="29.999975"
-           x="330"
-           y="53.777069"
-           style="font-size:14px" /></flowRegion><flowPara
-         id="flowPara3991">Processes CPU</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4157"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -647,10 +635,22 @@
            y="305.42676"
            x="394.73438"
            height="79.999992"
-           width="310"
+           width="410"
            id="rect3219" /></flowRegion><flowPara
-         id="flowPara3454">Multiple computers...</flowPara><flowPara
-         id="flowPara3263">⇒ harder to solve</flowPara></flowRoot>  </g>
+         id="flowPara3454">Multiple Serveurs...</flowPara><flowPara
+         id="flowPara3263">⇒ Plus de difficulté à resoudre solveudre</flowPara></flowRoot>    <flowRoot
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="flowRoot3174-0"
+       xml:space="preserve"
+       transform="translate(-215,514.80386)"><flowRegion
+         id="flowRegion3176-1"><rect
+           style="font-size:14px"
+           y="53.777069"
+           x="330"
+           height="40.000153"
+           width="150"
+           id="rect3178-8" /></flowRegion><flowPara
+         id="flowPara3180-2">Ressource CPU assignée au Processus CPUe au</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1039,7 +1039,8 @@
            height="50"
            width="120"
            id="rect3476-6-3" /></flowRegion><flowPara
-         id="flowPara3478-0-6">Not enough room</flowPara></flowRoot>    <flowRoot
+         id="flowPara3478-0-6">Pas assez</flowPara><flowPara
+         id="flowPara3306">de place</flowPara></flowRoot>    <flowRoot
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3645"
        xml:space="preserve"
@@ -1273,7 +1274,7 @@
            x="275"
            y="87.558319"
            style="font-size:14px;text-align:end;text-anchor:end;fill:#4e9a06" /></flowRegion><flowPara
-         id="flowPara4126-7">Optimal solution</flowPara></flowRoot>    <flowRoot
+         id="flowPara4126-7">Solution Optimale</flowPara></flowRoot>    <flowRoot
        transform="translate(325,431.10867)"
        xml:space="preserve"
        id="flowRoot3693"

@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cloudBalanceBruteForce.svg"
    inkscape:export-filename="cloudBalanceBruteForce.png"
    inkscape:export-xdpi="90"
@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1866667"
-     inkscape:cx="344.69128"
+     inkscape:cx="227.1351"
      inkscape:cy="277.99146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -254,9 +254,9 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -1044,11 +1044,11 @@
        sodipodi:cy="555"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="matrix(0.4,0,0,0.4,264,798.36218)" />
     <path
        transform="matrix(0.4,0,0,0.4,264,790.36218)"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        sodipodi:ry="5"
        sodipodi:rx="5"
        sodipodi:cy="555"
@@ -1064,7 +1064,7 @@
        sodipodi:cy="555"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="matrix(0.4,0,0,0.4,264,782.36218)" />
     <flowRoot
        transform="translate(285,503.47085)"
@@ -1314,11 +1314,11 @@
        sodipodi:cy="555"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="matrix(0.4,0,0,0.4,494,798.36218)" />
     <path
        transform="matrix(0.4,0,0,0.4,494,790.36218)"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        sodipodi:ry="5"
        sodipodi:rx="5"
        sodipodi:cy="555"
@@ -1334,7 +1334,7 @@
        sodipodi:cy="555"
        sodipodi:rx="5"
        sodipodi:ry="5"
-       d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
        transform="matrix(0.4,0,0,0.4,494,782.36218)" />
     <flowRoot
        xml:space="preserve"

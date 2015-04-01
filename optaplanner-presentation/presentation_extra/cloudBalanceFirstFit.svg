@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cloudBalanceFirstFit.svg"
    inkscape:export-filename="cloudBalanceFirstFit.png"
    inkscape:export-xdpi="90"
@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1866667"
-     inkscape:cx="351.32816"
+     inkscape:cx="233.77198"
      inkscape:cy="324.11269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -254,9 +254,9 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -303,7 +303,8 @@
      inkscape:label="Laag 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-452.36218)">
+     transform="translate(0,-452.36218)"
+     style="display:inline">
     <rect
        ry="5"
        rx="4.999999"
@@ -543,12 +544,13 @@
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
          id="flowRegion3987"><rect
            id="rect3989"
-           width="149.99973"
-           height="50"
-           x="330"
+           width="190"
+           height="40"
+           x="310"
            y="43.777069"
            style="font-size:14px" /></flowRegion><flowPara
-         id="flowPara3478">Processes unordered</flowPara></flowRoot>    <rect
+         id="flowPara3478"></flowPara><flowPara
+         id="flowPara3167">processus dans le désordre</flowPara></flowRoot>    <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3264"
        width="209.00002"
@@ -594,7 +596,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4157"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4159"><rect
            id="rect4161"
            width="10.955056"
@@ -908,5 +910,5 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3288">First Fit</flowPara></flowRoot>  </g>
+         id="flowPara3288">Première Suite</flowPara></flowRoot>  </g>
 </svg>
