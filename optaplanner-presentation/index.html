@@ -66,10 +66,15 @@
     </section>
 
     <section>
-        <h3>What is business resource optimization?</h3>
+        <h3>Comment optimiser les ressources <br/>
+            en entreprise ?</h3>
         <figure>
             <img src="planner_introduction/plannerExamplesAppScreenshot.png"/>
-            <p>TSP demo</p>
+            <p> 
+		<span style="font-size: smaller;">
+		Demonstration du probléme lié au parcours commercial d'un vendeur lambda - <b>TSP</b> demo.
+		</span>
+	    </p>
         </figure>
     </section>
 
@@ -83,15 +88,12 @@
     <section>
         <h2>
             TSP<br/>
-            is an academic problem
+            est en fait un probléme théorique.
         </h2>
     </section>
 
     <section>
-        <h3>
-            What is realistic<br/>
-            business resource optimization?
-        </h3>
+        <h3>En pratique ?</h3>
         <figure>
             <img src="planner_introduction/plannerExamplesAppScreenshot.png"/>
             <p>VRP demo</p>
@@ -142,8 +144,7 @@
 
     <section>
         <h2>
-            Are planning problems<br/>
-            difficult to solve?
+            Est-il difficile de résoudre des problémes de ressources ou de planning ?<br/>
         </h2>
     </section>
 
@@ -157,10 +158,10 @@
     <!--</section>-->
 
     <section>
-        <h3>What is business resource optimization?</h3>
+        <h3>Prenons un cas concret...</h3>
         <figure>
             <img src="planner_introduction/plannerExamplesAppScreenshot.png"/>
-            <p>Cloud Balancing demo</p>
+            <p>Démonstration d'une solution qui a été implémentée chez un fournisseur de Cloud </p>
         </figure>
     </section>
 
@@ -242,16 +243,16 @@
     <!--</section>-->
 
     <section>
-        <h3>Reuse optimization algorithms</h3>
+        <h3>Algorithme d'optimisation</h3>
         <figure>
             <img src="planner_introduction/optaPlannerLogo.png"/>
         </figure>
         <p><b>Find better solutions in time and scale out</b></p>
         <ul>
-            <li><b>Open source</b><br/>Apache License</li>
-            <li><b>Regular releases</b><br/>Download the zip or from Maven Central</li>
-            <li><b>Documented</b><br/>Reference manual, examples, ...</li>
-            <li><b>Quality coverage</b><br/>Unit, integration and stress tests</li>
+            <li><b>Open source</b><br/>licence apache</li>
+            <li><b>version fréquente et réguliére</b><br/>Téléchargez le fichier zip ou depuis Maven</li>
+            <li><b>Documentation</b><br/>Manuel de Référence, exemples, ...</li>
+            <li><b>Qualité du soft</b><br/> Tests Unitaire, Tests d'integration et stress tests</li>
         </ul>
     </section>
     <!--<section>-->
@@ -267,7 +268,8 @@
     </section>
 
     <section>
-        <h3>Cloud Balancing example</h3>
+        <h3>Détail de la solution</br> 
+            apportée au fournisseur de cloud.</h3>
         <h2>Domain model</h2>
     </section>
 
@@ -275,7 +277,7 @@
         <img src="quick_start/cloudBalanceClassDiagram_0.png" class="fullImage">
     </section>
     <section>
-        <h3>Computer</h3>
+        <h3>La Classe "Computer"</h3>
         <pre><code class="java">public class Computer {
 
   private int cpuPower;
@@ -293,7 +295,8 @@
         <img src="quick_start/cloudBalanceClassDiagram_2.png" class="fullImage fragment">
     </section>
     <section>
-        <h3>Process is a planning entity</h3>
+        <h3>La classe "Process" est une entité </br>
+            dite "planning"</h3>
         <pre><code class="java">@PlanningEntity
 public class Process {
 
@@ -307,7 +310,8 @@ public class Process {
 }</code></pre>
     </section>
     <section>
-        <h3>Process has a planning variable</h3>
+        <h3>La classe "Process" </br>
+            a une variable planning</h3>
         <pre><code class="java">@PlanningEntity
 public class Process {
   ...
@@ -382,14 +386,15 @@ public class Process {
     </section>
 
     <section>
-        <h3>Cloud Balancing example</h3>
-        <h2>Score constraints</h2>
+        <h3>Détail de la solution</br> 
+            apportée au fournisseur de cloud.</h3>
+        <h2>Notation des constraintes</h2>
     </section>
 
     <section>
         <h2>
-            Given 2 solutions<br/>
-            which one is better?
+            Prenons 2 solutions possibles<br/>
+            Laquelle vous semble la meilleur ?
         </h2>
     </section>
 
@@ -589,8 +594,9 @@ public class Process {
     <!--</section>-->
 
     <section>
-        <h3>Cloud Balancing example</h3>
-        <h2>Optimization algorithms</h2>
+        <h3>Détail de la solution</br> 
+            apportée au fournisseur de cloud.</h3>
+        <h2>Optimisation des algorithmes</h2>
     </section>
 
     <section>
@@ -612,13 +618,15 @@ public class Process {
         <img src="optimization_algorithms/cloudBalanceSearchSpaceSize_2.png" class="fullImage fragment">
     </section>
     <section>
-        <h3>Brute force scalability</h3>
+        <h3>Possibilité d'évolution </br>
+            avec la méthode dit "Brute force"</h3>
         <figure>
             <img src="exhaustive_search/exhaustiveSearchScalabilityCloudBalance.png"/>
         </figure>
     </section>
     <section>
-        <h3>Plan 1200 processes with brute force?</h3>
+        <h3>Essayez 1200 processus</br> 
+            avec la méthode "Brute force"?</h3>
         <br/>
         <figure>
             <img src="presentation_extra/bruteForceSolvingDialog.png"/>
@@ -786,13 +794,13 @@ public class Process {
     <!--</section>-->
 
     <section>
-        <h3>OptaPlanner results</h3>
+        <h3>Résultat avec OptaPlanner</h3>
         <figure>
             <img src="presentation_extra/cloudBalanceResults_2.png"/>
         </figure>
     </section>
     <section>
-        <h3>Cost ($) reduction</h3>
+        <h3>Coût(€) en fonction des différentes méthodes choisies</h3>
         <figure>
             <img src="presentation_extra/cloudBalanceResultsROI.png"/>
         </figure>
@@ -875,11 +883,12 @@ public class Process {
     <!--</section>-->
 
     <section>
-        <h3>Summary</h3>
+        <h3>En Bref...</h3>
         <ul>
-            <li>OptaPlanner solves planning and scheduling problems</li>
-            <li>Adding constraints: easy and scalable</li>
-            <li>Switching/combining optimization algorithms: easy</li>
+            <li>OptaPlanner résout les problémes de planning,</br> 
+                d'allocation des ressources, etc.</li>
+            <li>Ajouter des contraintes: Facile et évolutif</li>
+            <li>Capacité de changer ou de combiner les algorithmes: Facile</li>
         </ul>
     </section>
     <section>
@@ -887,7 +896,7 @@ public class Process {
         <!--<img src="planner_introduction/distributionZipProductized.png" class="fullImage">-->
     </section>
     <section>
-        <h3>Build from source</h3>
+        <h3>Compilation à partir du code source</h3>
         <ul>
             <li><a href="https://github.com/droolsjbpm/optaplanner">https://github.com/droolsjbpm/optaplanner</a></li>
         </ul>
@@ -901,19 +910,19 @@ $ mvn exec:exec
 ...</code></pre>
     </section>
     <section>
-        <h3>Q & A</h3>
+        <h3>Question/Réponses</h3>
         <ul>
-            <li>OptaPlanner homepage
+            <li>Page d'acceuil du project OptaPlanner
                 <ul>
                     <li><a href="http://www.optaplanner.org">http://www.optaplanner.org</a></li>
                 </ul>
             </li>
-            <li>Reference manual
+            <li>Manuel de référence
                 <ul>
                     <li><a href="http://www.optaplanner.org/learn/documentation.html">http://www.optaplanner.org/learn/documentation.html</a></li>
                 </ul>
             </li>
-            <li>Download/fork this presentation
+            <li>Télécharger ou copier cette presentation
                 <ul>
                     <li><a href="https://github.com/ge0ffrey/devoxxfr2015-optaplanner-slides">https://github.com/ge0ffrey/devoxxfr2015-optaplanner-slides</a></li>
                 </ul>
