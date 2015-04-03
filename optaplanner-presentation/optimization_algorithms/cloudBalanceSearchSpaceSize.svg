@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cloudBalanceSearchSpaceSize.svg"
    inkscape:export-filename="cloudBalanceSearchSpaceSize.png"
    inkscape:export-xdpi="90"
@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1866667"
-     inkscape:cx="324.98936"
+     inkscape:cx="326.67475"
      inkscape:cy="282.97118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -254,9 +254,9 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -309,27 +309,16 @@
        xml:space="preserve"
        id="flowRoot4302"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="translate(-20,262.36198)"><flowRegion
+       transform="translate(-20,256.36198)"><flowRegion
          id="flowRegion4304"><rect
            id="rect4306"
-           width="740"
-           height="50.000046"
+           width="750"
+           height="90"
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4308">What is the size of the search space?</flowPara></flowRoot>    <flowRoot
-       transform="translate(-20,382.36205)"
-       xml:space="preserve"
-       id="flowRoot4302-6"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
-         id="flowRegion4304-7"><rect
-           id="rect4306-3"
-           width="740.00006"
-           height="29.999973"
-           x="50"
-           y="150.00014"
-           style="font-size:14px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4308-6">How big is the haystack?</flowPara></flowRoot>    <g
+         id="flowPara4308">Tout est question du nombre </flowPara><flowPara
+         id="flowPara3347">de combinaison possible...</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot
@@ -371,7 +360,7 @@
            style="font-size:18px"
            id="flowPara3478-0-0"><flowSpan
    id="flowSpan3732"
-   style="font-size:18px;font-weight:bold">300</flowSpan> processes</flowPara></flowRoot>      <g
+   style="font-size:18px;font-weight:bold">300</flowSpan> processus</flowPara></flowRoot>      <g
          transform="translate(-47.009239,-230.00048)"
          id="g3456">
         <path
@@ -382,11 +371,11 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,798.36218)" />
         <path
            transform="matrix(0.4,0,0,0.4,-36,790.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -402,7 +391,7 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,782.36218)" />
       </g>
       <g
@@ -698,7 +687,7 @@
            id="flowPara4155"
            style="font-size:18px"><flowSpan
    style="font-size:18px;font-weight:bold"
-   id="flowSpan3734">100</flowSpan> computers</flowPara></flowRoot>      <flowRoot
+   id="flowSpan3734">100</flowSpan> Serveurs</flowPara></flowRoot>      <flowRoot
          transform="translate(104.99968,523.47038)"
          xml:space="preserve"
          id="flowRoot3709"
@@ -1021,7 +1010,7 @@
          transform="translate(193.36443,-270.00047)">
         <path
            transform="matrix(0.4,0,0,0.4,-36,798.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -1037,11 +1026,11 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,790.36218)" />
         <path
            transform="matrix(0.4,0,0,0.4,-36,782.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -1062,7 +1051,7 @@
            height="91.01123"
            x="503.08987"
            y="458.42697" /></flowRegion><flowPara
-         id="flowPara4448"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4448" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4510"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
@@ -1073,22 +1062,24 @@
            height="180.33707"
            x="-37.921349"
            y="380.8989" /></flowRegion><flowPara
-         id="flowPara4516"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4516" /></flowRoot>    <flowRoot
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3844"
        xml:space="preserve"
-       transform="translate(4.9996809,944.80268)"><flowRegion
+       transform="translate(4.9996809,902.80268)"><flowRegion
          id="flowRegion3846"><rect
            style="font-size:14px;text-align:center;text-anchor:middle"
            y="-52.440979"
            x="25.00032"
-           height="50.000481"
-           width="490"
+           height="98.000481"
+           width="510"
            id="rect3848" /></flowRegion><flowPara
          style="font-size:18px;text-align:center;text-anchor:middle"
-         id="flowPara3964">In how many combinations can 300 processes</flowPara><flowPara
+         id="flowPara3341">Imaginons un instant que nous souhaiterions assigner ou répartir 300 processus au travers 100 Serveurs?</flowPara><flowPara
          style="font-size:18px;text-align:center;text-anchor:middle"
-         id="flowPara3960">be assigned to 100 computers?</flowPara></flowRoot>  </g>
+         id="flowPara3345" /><flowPara
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="flowPara3339">Selon vous, quelle serait le nombre de combinaison possible ? </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -1229,11 +1220,11 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,798.36218)" />
         <path
            transform="matrix(0.4,0,0,0.4,-36,790.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -1249,7 +1240,7 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,782.36218)" />
       </g>
       <flowRoot
@@ -1264,7 +1255,7 @@
              x="380.00046"
              y="333.77756"
              style="font-size:14px" /></flowRegion><flowPara
-           id="flowPara3958">One combination (feasible)</flowPara></flowRoot>      <g
+           id="flowPara3958">Combination Possible (faisable)</flowPara></flowRoot>      <g
          id="g4038"
          transform="translate(70,130)">
         <rect
@@ -1555,7 +1546,7 @@
          transform="translate(233.36475,0)">
         <path
            transform="matrix(0.4,0,0,0.4,-36,798.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -1571,11 +1562,11 @@
            sodipodi:cy="555"
            sodipodi:rx="5"
            sodipodi:ry="5"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            transform="matrix(0.4,0,0,0.4,-36,790.36218)" />
         <path
            transform="matrix(0.4,0,0,0.4,-36,782.36218)"
-           d="m 450,555 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+           d="m 450,555 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z"
            sodipodi:ry="5"
            sodipodi:rx="5"
            sodipodi:cy="555"
@@ -1646,7 +1637,7 @@
              height="29.999956"
              width="230.00008"
              id="rect4138" /></flowRegion><flowPara
-           id="flowPara4140">Another combination (infeasible)</flowPara></flowRoot>    </g>
+           id="flowPara4140">Combinaison Possible (infaisable)</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"

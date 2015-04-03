@@ -30,7 +30,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="compatibility.svg"
    inkscape:export-filename="compatibility.png"
    inkscape:export-xdpi="90"
@@ -8332,7 +8332,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3483333"
-     inkscape:cx="400"
+     inkscape:cx="401.48331"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -8340,8 +8340,8 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -8407,7 +8407,7 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4308">Compatibility</flowPara></flowRoot>    <flowRoot
+         id="flowPara4308">Compatibilité</flowPara></flowRoot>    <flowRoot
        transform="translate(-20,372.36182)"
        xml:space="preserve"
        id="flowRoot4302-6"
@@ -8419,7 +8419,7 @@
            x="50"
            y="150.00014"
            style="font-size:14px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3157">OptaPlanner works on any Java Virtual Machine</flowPara></flowRoot>    <g
+         id="flowPara3157">OptaPlanner fonctionne sur tout type de JVM - Java Virtual Machine</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot
@@ -15518,5 +15518,5 @@
            height="18.106104"
            width="132.77815"
            id="rect9530" /></flowRegion><flowPara
-         id="flowPara9532">JVM languages</flowPara></flowRoot>  </g>
+         id="flowPara9532">Langages JVM </flowPara></flowRoot>  </g>
 </svg>
