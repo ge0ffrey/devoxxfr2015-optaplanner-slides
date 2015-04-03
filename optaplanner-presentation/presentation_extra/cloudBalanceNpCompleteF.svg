@@ -246,10 +246,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.315"
-     inkscape:cx="316.94285"
+     inkscape:cx="318.46376"
      inkscape:cy="308.40579"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="true"
      width="800px"
      borderlayer="true"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -909,8 +909,8 @@
            width="380"
            id="rect3219" /></flowRegion><flowPara
          id="flowPara3454">Multiple Contraintes...</flowPara><flowPara
-         id="flowPara3415">⇒ Plus de difficulté à </flowPara><flowPara
-         id="flowPara3417">    resoudre</flowPara></flowRoot>  </g>
+         id="flowPara3415">⇒ Encore plus difficile à </flowPara><flowPara
+         id="flowPara3417">    résoudre</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1640,7 +1640,7 @@
            width="120"
            id="rect3476-6-3" /></flowRegion><flowPara
          id="flowPara3478-0-6">Pas assez </flowPara><flowPara
-         id="flowPara3419">de place</flowPara></flowRoot>    <flowRoot
+         id="flowPara3419">d'espace libre</flowPara></flowRoot>    <flowRoot
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3645"
        xml:space="preserve"

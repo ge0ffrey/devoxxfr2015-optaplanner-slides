@@ -13,7 +13,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="cloudBalanceFirstFit.svg"
    inkscape:export-filename="cloudBalanceFirstFit.png"
    inkscape:export-xdpi="90"
@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1866667"
-     inkscape:cx="233.77198"
+     inkscape:cx="235.45737"
      inkscape:cy="324.11269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -254,9 +254,9 @@
      width="800px"
      borderlayer="true"
      gridtolerance="10"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="1680"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
@@ -910,5 +910,5 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3288">First Fit (Première Suite)</flowPara></flowRoot>  </g>
+         id="flowPara3288">First Fit (Première combinaison possible)</flowPara></flowRoot>  </g>
 </svg>

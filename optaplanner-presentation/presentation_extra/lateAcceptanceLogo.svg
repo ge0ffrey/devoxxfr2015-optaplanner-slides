@@ -524,7 +524,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82166667"
-     inkscape:cx="402.43408"
+     inkscape:cx="404.86816"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -567,7 +567,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -596,7 +596,7 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4621">acceptation tardive</flowPara></flowRoot>    <g
+         id="flowPara4621">Acceptation tardive</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot

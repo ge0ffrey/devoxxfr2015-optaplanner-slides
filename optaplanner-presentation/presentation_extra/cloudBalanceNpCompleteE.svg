@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="cloudBalanceNpCompleteEFR.svg"
+   sodipodi:docname="cloudBalanceNpCompleteE.svg"
    inkscape:export-filename="cloudBalanceNpCompleteE.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -246,10 +246,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.315"
-     inkscape:cx="401.52091"
+     inkscape:cx="403.04182"
      inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      width="800px"
      borderlayer="true"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -635,10 +635,10 @@
            y="305.42676"
            x="394.73438"
            height="79.999992"
-           width="410"
+           width="370"
            id="rect3219" /></flowRegion><flowPara
          id="flowPara3454">Multiple Serveurs...</flowPara><flowPara
-         id="flowPara3263">⇒ Plus de difficulté à resoudre solveudre</flowPara></flowRoot>    <flowRoot
+         id="flowPara3263">⇒ Plus difficile à resoudre</flowPara></flowRoot>    <flowRoot
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3174-0"
        xml:space="preserve"
@@ -1040,7 +1040,7 @@
            width="120"
            id="rect3476-6-3" /></flowRegion><flowPara
          id="flowPara3478-0-6">Pas assez</flowPara><flowPara
-         id="flowPara3306">de place</flowPara></flowRoot>    <flowRoot
+         id="flowPara3306">d'espace libre</flowPara></flowRoot>    <flowRoot
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3645"
        xml:space="preserve"

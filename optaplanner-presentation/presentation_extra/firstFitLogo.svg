@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92984542"
-     inkscape:cx="254.12194"
+     inkscape:cx="256.27284"
      inkscape:cy="318.71995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -291,7 +291,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -312,7 +312,7 @@
        xml:space="preserve"
        id="flowRoot4302"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="translate(-20,262.36198)"><flowRegion
+       transform="translate(-20,254.36198)"><flowRegion
          id="flowRegion4304"><rect
            id="rect4306"
            width="740"
@@ -320,7 +320,7 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4621">Première Suite</flowPara></flowRoot>    <g
+         id="flowPara4621">Première combinaison possible</flowPara></flowRoot>    <g
        id="g3709"
        transform="translate(0,19.999997)" />
     <flowRoot

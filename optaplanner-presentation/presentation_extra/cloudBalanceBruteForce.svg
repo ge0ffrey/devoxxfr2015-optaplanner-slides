@@ -246,7 +246,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1866667"
-     inkscape:cx="227.1351"
+     inkscape:cx="228.82049"
      inkscape:cy="277.99146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -287,7 +287,7 @@
             <dc:title>www.optaplanner.org</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>www.optaplanner.org</dc:title>
@@ -361,7 +361,7 @@
            x="16.011236"
            y="-53.932568" /></flowRegion><flowPara
          id="flowPara4163" /></flowRoot>    <flowRoot
-       transform="translate(185,473.47085)"
+       transform="translate(185,449.47085)"
        xml:space="preserve"
        id="flowRoot4120-3-6"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
@@ -1340,7 +1340,7 @@
        xml:space="preserve"
        id="flowRoot4302"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="translate(-20.000001,262.36198)"><flowRegion
+       transform="translate(-20.000001,238.36198)"><flowRegion
          id="flowRegion4304"><rect
            id="rect4306"
            width="740"
@@ -1348,5 +1348,6 @@
            x="50"
            y="220.0002"
            style="font-size:36px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara3288">Brute Force</flowPara></flowRoot>  </g>
+         id="flowPara3288">Combinaison possible séléctionnée </flowPara><flowPara
+         id="flowPara3279">par Brute Force</flowPara></flowRoot>  </g>
 </svg>
